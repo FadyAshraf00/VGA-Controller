@@ -4,8 +4,8 @@
 This repository contains the RTL code and scripts for a Digital IC Design project focused on displaying an image on a VGA monitor using an FPGA. The system is divided conceptually into a VGA Controller that manages pixel generation timing and a Graphics Engine that determines the visual output.
 
 ## Team
-* Malak Mansour
-* Fady Ashraf
+* Malak Mansour: malakmansour529@gmail.com
+* Fady Ashraf: fadyashraf255200@gmail.com
 * Karim Khaled
 
 ## System Architecture
