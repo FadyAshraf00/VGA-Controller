@@ -6,7 +6,7 @@ This repository contains the RTL code and scripts for a Digital IC Design projec
 ## Team
 * Malak Mansour: malakmansour529@gmail.com
 * Fady Ashraf: fadyashraf255200@gmail.com
-* Karim Khaled
+* Karim Khaled: kareemkhalid752@gmail.com
 
 ## System Architecture
 The hardware pipeline consists of five logical video signals (R, G, B, HSYNC, VSYNC) and is divided into the following key modules:
